@@ -1,3 +1,0 @@
-- name: pingleyelim
-  host: 192.168.0.1
-  raw: ping 192.168.0.1
