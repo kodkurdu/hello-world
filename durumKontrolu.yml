@@ -1,5 +1,5 @@
 - name: DurumKontrolu
-  hosts: "*"
+  hosts: all
   tasks:
   
   - name: remove a file (check mode)
