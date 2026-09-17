@@ -6,5 +6,6 @@
     shell: ls /
     register: ls
 
-  - debug:
+  - name: ls çıktısı
+    debug:
       var: ls
